@@ -1,6 +1,6 @@
 @extends('layouts.tpl_admin')
 @section('title')
-Beranda Admin | Layanan Online Adminduk Kabupaten Jayawijaya 
+Beranda Admin | Mubaligh.ID 
 @stop
 @section('content')
 <div class="container-fluid">

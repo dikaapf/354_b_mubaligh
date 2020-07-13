@@ -331,7 +331,7 @@
                                     <li><a href="<?= url('/admin/logout') ?>"><i class="fa fa-power-off"></i> Logout</a></li>
                                 </ul>
                             </li>
-                            <li> <a class="waves-effect waves-dark" href="index.html"><i class="icon-speedometer"></i><span class="hide-menu">Beranda</span></a>
+                            <li> <a class="waves-effect waves-dark" href="<?= url('admin') ?>"><i class="icon-speedometer"></i><span class="hide-menu">Beranda</span></a>
                             </li>
 <!--                            <li> <a class="has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class="ti-layout-grid2"></i><span class="hide-menu">Kelola</span></a>
                                 <ul aria-expanded="false" class="collapse">
