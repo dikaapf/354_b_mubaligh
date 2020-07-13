@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/kategori/show.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Http/Controllers/Auth/OperatorLoginController.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Pengajar.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/layouts/tpl_admin.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/welcome.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/layouts/tpl_login.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/kategori/edit.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/pengguna/index.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/pengajar/edit.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/auth/pengajar-login.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Http/Controllers/KategoriController.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/kategori/create.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/kategori/index.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Http/Controllers/OperatorController.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Kategori.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/pengajar/index.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/routes/web.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Http/Controllers/AdminController.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/pengguna/edit.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/auth/admin-login.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Http/Controllers/HomeController.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/resources/views/backEnd/pengajar/create.blade.php</file>
+            <file>file:/H:/webserver7/htdocs/laravel/admin_mubaligh/app/Http/Controllers/PengajarController.php</file>
+        </group>
+    </open-files>
+</project-private>

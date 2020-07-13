@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+SILAHKAN DI GANTI SESUAI DENGAN KEBUTUHAN ANDA
+-->
+
+
+<root>
+    <data>
+        <instansi>PEMERINTAH KABUPATEN JAYAWIJAYA</instansi>
+        <opd>DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL</opd>
+        <alamat>Jln. Yos Sudarso - Wamena - Papua</alamat>
+        <no_prop>91</no_prop>
+        <no_kab>2</no_kab> 
+        <nama_prop>Propinsi Papua</nama_prop>
+        <nama_kab>Kabupaten Jayawijaya</nama_kab>
+        <tempat_surat>Wamena</tempat_surat>
+        <pejabat>KEPALA DINAS</pejabat>
+        <nama_ttd_surat>Drs. DIDREX R. ARONGGEAR, M.Si</nama_ttd_surat>
+        <nip_surat>NIP. 19591203 199610 1002</nip_surat>
+        <pangkat_ttd_surat>PEMBINA UTAMA TK.I</pangkat_ttd_surat>
+        <default_dkb>biodata_wni_201702_ok</default_dkb>
+    </data>
+</root>
